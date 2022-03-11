@@ -50,7 +50,7 @@ export default function App() {
         style = {styles.button}
             onPress={somar}>
 
-          <Text style={styles.textButton}>Somar</Text>
+          <Text style={styles.textButton}>Somar Btn</Text>
         </TouchableOpacity>
         <TouchableOpacity 
         style = {styles.button}
